@@ -17,3 +17,7 @@ Paper used: [Gradient-based learning applied to document recognition](https://gi
 ## Alexnet
 
 Paper used: [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
+## VGG-16
+
+Paper used: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556)
