@@ -21,3 +21,7 @@ Paper used: [ImageNet Classification with Deep Convolutional Neural Networks](ht
 ## VGG-16
 
 Paper used: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556)
+
+## Resnet
+
+Paper used: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
